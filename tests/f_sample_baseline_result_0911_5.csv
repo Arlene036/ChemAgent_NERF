@@ -1,0 +1,20 @@
+reactants,reagents,result,reactants_functional_groups,products_functional_groups
+CC(C)(C)OC(=O)Nc1nc(Br)ns1.CS(=O)(=O)c1ccc(B(O)O)cc1,C1COCCO1.O.[Cs+].[F-].[Pd],"
+
+Answer1: CC(C)(C)OC(=O)Nc1nc(Br)ns1.CS(=O)(=O)c1ccc(B(O)O)cc1.C1COCCO1.O.[Cs+].[F-].[Pd].[Pd].[F-].[Cs+]; 
+Answer2: The reactants contain an ester, an amide, an aryl bromide, and an aryl alcohol. The reagents contain an acyl chloride and an alkoxide. The reaction is likely to involve a palladium-catalyzed cross-coupling reaction, which will result in the formation of a new C-C bond between the aryl bromide and the aryl alcohol, forming a new aryl ether. The acyl chloride will react with the amide, forming a new amide, and the alkoxide will react with the ester, forming a new ester.","ketones, amides, alcohol groups, methyl sulfonyl, halogens, t-butyl, side-chain hydroxyls","ketones, amides, methyl sulfonyl, t-butyl"
+C=O.COC(=O)C(NCCc1cccs1)c1ccccc1Cl,Cl.ClCCl,"
+
+Answer1: C=O.COC(=O)C(NCCc1cccs1)c1ccccc1Cl.ClCCl; 
+Answer2: The reactants contain a carbonyl group (C=O) and an ester group (COC(=O)), while the reagents contain two chlorine atoms (Cl.ClCCl). The reaction is likely to involve a nucleophilic substitution reaction, in which the chlorine atoms will replace the oxygen atoms in the carbonyl and ester groups, forming two new products with the following SMILES: C=O.CClCCl(NCCc1cccs1)c1ccccc1Cl and CClCCl.CClCCl(NCCc1cccs1)c1ccccc1Cl.","esters, ketones, carbonyl methylester, halogens, methoxy","esters, ketones, carbonyl methylester, halogens, methoxy"
+C#CCNC(=O)OC(C)(C)C.COC(=O)c1ccc(Br)s1,CC#N.CCN(CC)CC.CCOC(C)=O.[Cu]I,"
+
+Answer1: C#CCNC(=O)OC(C)(C)C.COC(=O)c1ccc(Br)s1.[Cu+].[I-]; Answer2: The reactant contains an ester group (COC(=O)), an aryl bromide (c1ccc(Br)s1), and a nitrile group (C#CCN). The reagent contains a nitrile group (CC#N), an amide group (CCN(CC)CC), and an ester group (CCOC(C)=O). During the reaction, the nitrile group in the reactant is replaced by the nitrile group in the reagent, the aryl bromide remains unchanged, and the ester group in the reactant is replaced by the ester group in the reagent.",,
+CC(C)(C)OC(=O)Nc1ccccc1F.CN(C)C=O,CCOCC.Cc1ccccc1.O.[Li]C(C)(C)C,"
+
+Answer1: CC(C)(C)OC(=O)Nc1ccccc1F.CN(C)C=O.CCOCC.Cc1ccccc1.O.C(C)(C)C; 
+Answer2: The reactants contain an ester, an amide, an aryl fluoride, and an aldehyde functional group. The reagents contain an alcohol, an aryl, and a lithium alkoxide functional group. The predicted products contain an ether, an ester, an amide, an aryl fluoride, and an aldehyde functional group. The functional groups that have changed during the reaction are the alcohol and the lithium alkoxide, which have been converted into an ether.",,
+CCOC(=O)CC#N.O=C(c1ccc(F)cc1)c1ccc(F)cc1,CC(=O)O.NCCC(=O)O.c1ccccc1,"
+
+Answer1: CCOC(=O)CC#N.O=C(c1ccc(F)cc1)c1ccc(F)cc1.CC(=O)O.NCCC(=O)O.c1ccccc1;
+Answer2: The reaction involves the formation of an ester group (C=O) and an amide group (N-C=O) from the reactants. The functional groups of the reactants are alcohol (C-O-H) and carboxylic acid (C=O-H). The reagents are acetic acid (C-O-H), ammonia (N-H) and benzene (C-C-C-C-C-C).",,
